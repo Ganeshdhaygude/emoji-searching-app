@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(92, 81, 81);
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+  width: 100%;
+  color: white;
+  background-color:rgb(27, 18, 18);
+}
+
+h1 {
+  border-bottom: 2px solid rgb(228, 222, 222);
+  width: 100%;
+ /
+  justify-content: center;
+  padding: 1rem;
+}
+button{
+  color: aqua;
+  border: 2px solid red;
+  width: 30%ch;
+}
